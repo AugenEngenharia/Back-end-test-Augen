@@ -47,3 +47,5 @@ Pode ser estruturado conforme escolha do(a) candidato(a), mas minimamente dever�
 ## Envio
 
 O teste realizado pelo(a) candidato(a) deve ser postado no github em um repositório público e o link ser enviado através do email pedro.m@augenengenharia.com
+
+A não conclusão de algum dos requisitos propostos NÃO resulta em desclassificação, também relate no README quais foram as dificuldades encontradas.
