@@ -1,10 +1,11 @@
 # Backend test Augen Engenharia (2022)
 
 O teste consiste em estruturar uma API REST, um banco de dados para esta API e a documentação de como rodar o projeto. 
+O sistema poderá ser realizado em PHP (Laravel) ou Node JS (express) e utilizar banco de dados MYSQL.
 
 ## Sistema
 
-Equipamentos espalhados por cidades do Brasil fazem análises da água de poços, nessas leituras são feitas análises do PH, Cloro, Fluor e Vazão. Este sistema deve permitir o armazenamento externo dessas análises linkado para cada equipamento que fizer o envio dessas análises. Caso uma análise possua vazão 0 (zero) não deve fazer o armazenamento desta análise, valores de cloro e fluor maiores que 100 também não devem ser considerados. O sistema também deve permitir cadastro de equipamentos e as cidades. O cadastro de funcionários é opcional para caso o(a) candidato(a) queira utilizar autenticação (opcional).  O sistema poderá ser realizado em PHP (Laravel) ou Node JS (express) e utilizar banco de dados MYSQL.
+Equipamentos espalhados por cidades do Brasil fazem análises da água de poços, nessas leituras são feitas análises do PH, Cloro, Fluor e Vazão. Este sistema deve permitir o armazenamento externo dessas análises linkado para cada equipamento que fizer o envio dessas análises. Caso uma análise possua vazão 0 (zero) não deve fazer o armazenamento desta análise, valores de cloro e fluor maiores que 100 também não devem ser considerados. O sistema também deve permitir cadastro de equipamentos e as cidades. O cadastro de funcionários é opcional para caso o(a) candidato(a) queira utilizar autenticação (opcional).  
 
 ## Requisitos 
 
