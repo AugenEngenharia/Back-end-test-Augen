@@ -5,7 +5,7 @@ O sistema poderá ser realizado em PHP (Laravel) ou Node JS (express) e utilizar
 
 ## Sistema
 
-Equipamentos espalhados por cidades do Brasil fazem análises da água de poços, nessas leituras são feitas análises do PH, Cloro, Fluor e Vazão. Este sistema deve permitir o armazenamento externo dessas análises linkado para cada equipamento que fizer o envio dessas análises. Caso uma análise possua vazão 0 (zero) não deverá ser feito o armazenamento desta análise, valores de cloro e fluor maiores que 100 devem ser considerados. 
+Equipamentos espalhados por cidades do Brasil fazem análises da água de poços, nessas leituras são feitas análises do PH, Cloro, Fluor e Vazão. Este sistema deve permitir o armazenamento externo dessas análises linkado para cada equipamento que fizer o envio dessas análises. Caso uma análise possua vazão 0 (zero) não deverá ser feito o armazenamento desta análise, valores de cloro e fluor maiores que 100 devem ser desconsiderados também. 
 O sistema deve permitir cadastro de equipamentos e cidades. 
 O cadastro de funcionários é opcional para caso o(a) candidato(a) queira utilizar autenticação (opcional).  
 
